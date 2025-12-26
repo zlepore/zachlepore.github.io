@@ -11,7 +11,10 @@ This page collects some of the art I create.
 
 ## Selected Pieces (to be added)
 
-> I’ll gradually add photos here as I document my work.  
-> For now, these are placeholders for series I’d like to showcase.
+## Head Mosaic
+
+![Head Mosaic]({{ "/assets/art/headmosaic.jpg" | relative_url }})
+
+*Digital art.*
 
 
