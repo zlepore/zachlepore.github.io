@@ -69,7 +69,7 @@ Although the project did not advance to full commercial buildout, it provided ea
 - compliance-driven design
 - translating technical plans into defensible, review-ready documentation
 
---
+---
 ## How This Informs My Engineering Work
 
 Entrepreneurial work has made me a better engineer by reinforcing:
