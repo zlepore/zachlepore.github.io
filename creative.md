@@ -13,8 +13,23 @@ This page collects some of the art I create.
 
 ## Head Mosaic
 
-![Head Mosaic]({{ "/assets/art/headmosaic.jpg" | relative_url }})
+<h2>Head Mosaic</h2>
 
-*Digital art.*
+<img 
+  src="{{ '/assets/art/headmosaic.jpg' | relative_url }}" 
+  alt="Head Mosaic"
+  style="
+    max-width: 450px;
+    width: 100%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 6px;
+  "
+>
+
+<p style="text-align: center; color: #666; max-width: 600px; margin: 0 auto;">
+  Mixed media experiment exploring geometry, texture, and layered organic structure.
+</p>
+
 
 
