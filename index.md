@@ -3,7 +3,7 @@ layout: default
 title: Zachary Lepore
 ---
 
-# Hey — I’m Zach.
+## Hey — I’m Zach.
 
 Environmental engineer working at the intersection of  
 **field work, environmental data, and clear storytelling.**
