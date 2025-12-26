@@ -69,7 +69,6 @@ Although the project did not advance to full commercial buildout, it provided ea
 - compliance-driven design
 - translating technical plans into defensible, review-ready documentation
 
-This project directly informed my interest in regulated systems and continues to shape how I approach environmental and compliance-focused engineering work.
 --
 ## How This Informs My Engineering Work
 
