@@ -51,7 +51,7 @@ This project is intentionally lightweight and experimental — designed to explo
 ## ZSC LLC  
 **Co-Founder | 2019 – 2021**
 
-ZSC LLC was an early-stage venture and academic project focused on the planning, design, and permitting of a regulated agricultural cultivation facility in Connecticut.
+ZSC LLC was an early-stage venture focused on the planning, design, and permitting of a regulated Cannabis cultivation facility in Massachusetts.
 
 The work emphasized applying engineering and regulatory principles within a highly constrained compliance environment.
 
