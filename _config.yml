@@ -2,6 +2,10 @@ title: "Zachary Lepore"
 description: "Environmental engineer • data & systems generalist"
 theme: jekyll-theme-minimal
 markdown: kramdown
+
+url: "https://zlepore.github.io"      # no trailing slash
+baseurl: "/zachlepore.github.io"      # this part of the URL path
+
 navigation:
   - title: "Home"
     url: "/"
