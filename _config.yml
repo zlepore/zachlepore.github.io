@@ -2,3 +2,16 @@ title: "Zachary Lepore"
 description: "Environmental engineer • data & systems generalist"
 theme: jekyll-theme-minimal
 markdown: kramdown
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Engineering"
+    url: "/engineering"
+  - title: "Entrepreneurship"
+    url: "/entrepreneurship"
+  - title: "Art & Creative"
+    url: "/creative"
+  - title: "Drone & Media"
+    url: "/drone"
+  - title: "Resume"
+    url: "/resume"
